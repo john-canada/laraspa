@@ -19,6 +19,9 @@
                 <li class="nav-item">  
                     <router-link to="/customer">Customer</router-link>
                  </li> 
+                 <li class="nav-item">  
+                    <router-link to="/addcustomer">AddCustomer</router-link>
+                 </li> 
             </ul>
 
             <!-- Right Side Of Navbar -->
